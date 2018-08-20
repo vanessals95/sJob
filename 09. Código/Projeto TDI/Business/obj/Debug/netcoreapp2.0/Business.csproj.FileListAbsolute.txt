@@ -1,0 +1,56 @@
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\Business\obj\Debug\netcoreapp2.0\Business.pdb
+D:\Usuario\Desktop\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+D:\Usuario\Desktop\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Business.dll
+D:\Usuario\Desktop\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Business.pdb
+D:\Usuario\Desktop\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Model.dll
+D:\Usuario\Desktop\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Persistence.dll
+D:\Usuario\Desktop\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Usuario\Desktop\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Persistence.pdb
+D:\Usuario\Desktop\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.csprojAssemblyReference.cache
+D:\Usuario\Desktop\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+D:\Usuario\Desktop\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+D:\Usuario\Desktop\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.dll
+D:\Usuario\Desktop\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Business.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Business.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Model.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Persistence.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\bin\Debug\netcoreapp2.0\Persistence.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.csprojAssemblyReference.cache
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Business\obj\Debug\netcoreapp2.0\Business.pdb

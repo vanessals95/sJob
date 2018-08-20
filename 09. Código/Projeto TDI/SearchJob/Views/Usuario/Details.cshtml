@@ -1,0 +1,66 @@
+﻿@model Model.Models.Usuario
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Usuario</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.isAdmin)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.isAdmin)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeProfissao)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NomeProfissao)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DescricaoProfissao)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DescricaoProfissao)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Senha)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Senha)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ConfirmarSenha)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ConfirmarSenha)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new {  id = Model.Id }) |
+    <a asp-action="Index">Back to List</a>
+</div>

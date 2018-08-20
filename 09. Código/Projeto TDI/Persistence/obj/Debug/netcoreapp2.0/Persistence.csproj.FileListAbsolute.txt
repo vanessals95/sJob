@@ -1,0 +1,48 @@
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb
+D:\Usuario\Desktop\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+D:\Usuario\Desktop\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+D:\Usuario\Desktop\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+D:\Usuario\Desktop\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+D:\Usuario\Desktop\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Usuario\Desktop\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojAssemblyReference.cache
+D:\Usuario\Desktop\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+D:\Usuario\Desktop\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+D:\Usuario\Desktop\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+D:\Usuario\Desktop\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojAssemblyReference.cache
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb

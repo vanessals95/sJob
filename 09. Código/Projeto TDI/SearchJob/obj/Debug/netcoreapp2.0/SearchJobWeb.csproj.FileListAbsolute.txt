@@ -1,0 +1,72 @@
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.AssemblyInfoInputs.cache
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.AssemblyInfo.cs
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.deps.json
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.runtimeconfig.json
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.runtimeconfig.dev.json
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.pdb
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csproj.CopyComplete
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.dll
+C:\Users\Yuri\Documents\Visual Studio 2017\Projects\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.deps.json
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.runtimeconfig.json
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.runtimeconfig.dev.json
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csproj.CopyComplete
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.dll
+C:\Users\Yuri\Desktop\ProjetoTDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.pdb
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.deps.json
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.runtimeconfig.json
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.runtimeconfig.dev.json
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.dll
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.pdb
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Business.dll
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Model.dll
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Persistence.dll
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Business.pdb
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Usuario\Desktop\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Persistence.pdb
+D:\Usuario\Desktop\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csprojAssemblyReference.cache
+D:\Usuario\Desktop\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.AssemblyInfo.cs
+D:\Usuario\Desktop\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csproj.CopyComplete
+D:\Usuario\Desktop\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.dll
+D:\Usuario\Desktop\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.deps.json
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.runtimeconfig.json
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.runtimeconfig.dev.json
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\SearchJobWeb.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Business.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Model.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Persistence.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Business.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\bin\Debug\netcoreapp2.0\Persistence.pdb
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csprojAssemblyReference.cache
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.AssemblyInfoInputs.cache
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.AssemblyInfo.cs
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.csproj.CopyComplete
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.dll
+D:\Usuario\Documents\UFS\Engenharia de Software 1\Projeto de Engenharia de Software\Projeto de Engenharia de Software - Vanessa\09. Código\Projeto TDI\SearchJob\obj\Debug\netcoreapp2.0\SearchJobWeb.pdb
