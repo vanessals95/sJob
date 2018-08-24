@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using Model.Models;
 
@@ -14,7 +15,7 @@ namespace Persistence.Persistence
                 usuarios = new List<Usuario>();
         }
 
-        public void Adicionar(Usuario u)
+        public void Cadastrar(Usuario u)
         {
             u.Id = usuarios.Count + 1;
             usuarios.Add(u);
@@ -32,15 +33,24 @@ namespace Persistence.Persistence
             usuarios.RemoveAt(idx);
         }
 
+        public Usuario Obter(Func<Usuario, bool> where)
+        {
+            return usuarios.Where(where).FirstOrDefault();
+        }
+
         public List<Usuario> ObterTodos()
         {
-            
             return usuarios;
         }
 
-        public Usuario ObterById(int? id)
+        public Usuario ObterPorId(int? id)
         {
             return (id.HasValue) ? usuarios.Find(p => p.Id == id) : null;
+        }
+
+        public List<Usuario> ObterTodosPorProfissao(string profissao)
+        {
+            return ObterTodos().Where(e => e.NomeProfissao.ToLowerInvariant().Contains(profissao.ToLowerInvariant())).ToList();
         }
     }
 }

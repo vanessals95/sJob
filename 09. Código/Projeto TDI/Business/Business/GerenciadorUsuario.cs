@@ -14,22 +14,16 @@ namespace Business.Business
             persistencia = new UsuarioPersistence();
         }
 
-        public void Adicionar(Usuario u) => persistencia.Adicionar(u);
+        public void Cadastrar(Usuario u) => persistencia.Cadastrar(u);
 
         public void Editar(Usuario u) => persistencia.Editar(u);
 
         public void Remover(int? id) => persistencia.Remover(id);
 
-        public List<Usuario> ObterTodos()
-        {
-            return persistencia.ObterTodos();
-        }
+        public List<Usuario> ObterTodos() => persistencia.ObterTodos();
+       
+        public Usuario ObterPorId(int? id) => persistencia.ObterPorId(id);
 
-        public Usuario ObterById(int? id) => persistencia.ObterById(id);
-
-        public List<Usuario> ObterTodosByEmprego(string profissao)
-        {
-            return persistencia.ObterTodos().Where(e => e.NomeProfissao.ToLowerInvariant().Contains(profissao.ToLowerInvariant())).ToList();
-        }
+        public List<Usuario> ObterTodosPorProfissao(string profissao) => persistencia.ObterTodosPorProfissao(profissao);
     }
 }

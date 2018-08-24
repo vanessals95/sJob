@@ -8,20 +8,31 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Metadata;
 using Model.Models;
+using SearchJob.Controllers;
+using SearchJobWeb.Areas.Privada.Util;
 
 namespace SearchJobWeb.Controllers
 {
     
     public class UsuarioController : Controller
-    {
+    {     
         private GerenciadorUsuario gu;
         public UsuarioController() => gu = new GerenciadorUsuario();
 
         // GET: Usuario
-
         public IActionResult Index()
         {
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult Index(bool armazena = false, bool abandona = false)
+        {
+            if (armazena)
+                SessionHelper.Set(HttpContext.Session, SessionKeys.NOME, "vanessals");
+            if (abandona)
+                HttpContext.Session.Clear();
+            return RedirectToAction(nameof(Index));
         }
 
         public IActionResult ListarUsuarios()
@@ -34,20 +45,19 @@ namespace SearchJobWeb.Controllers
         }
 
         // GET: Usuario/Details/5
-        [Route("/Usuario/ListarUsuarios/Details/{id}")]
-        public IActionResult Details(int? id)
+        public IActionResult Detalhes(int? id)
         {
             if (id.HasValue)
             {
-                Usuario usuario = gu.ObterById(id);
+                Usuario usuario = gu.ObterPorId(id);
                 if (usuario != null)
                     return View(usuario);
             }
-            return RedirectToAction("ListarUsuarios", "Usuario");
+            return RedirectToAction(nameof(ListarUsuarios), nameof(Usuario));
         }
 
         // GET: Usuario/Create
-        public IActionResult Create()
+        public IActionResult Cadastrar()
         {
             return View();
         }
@@ -55,75 +65,75 @@ namespace SearchJobWeb.Controllers
         // POST: Usuario/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Usuario usuario)
+        public IActionResult Cadastrar(Usuario usuario)
         {
             if (ModelState.IsValid)
-                gu.Adicionar(usuario);
-            return RedirectToAction("Index", "Home");
+                gu.Cadastrar(usuario);
+            return RedirectToAction ("Index", "Home");
         }
 
         // GET: Usuario/Edit/5
-        public IActionResult Edit(int? id)
+        public IActionResult Editar(int? id)
         {
             if (id.HasValue)
             {
-                Usuario usuario = gu.ObterById(id);
+                Usuario usuario = gu.ObterPorId(id);
                 if (usuario != null)
                     return View(usuario);
             }
-            return RedirectToAction("ListarUsuarios","Usuario");
+            return RedirectToAction(nameof(ListarUsuarios));
         }
 
         // POST: Usuario/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(Usuario usuario)
+        public IActionResult Editar(Usuario usuario)
         {
             if (ModelState.IsValid)
             {
                 ModelState.Remove("Id");
                 gu.Editar(usuario);
-                return RedirectToAction("ListarUsuarios", "Usuario");
+                return RedirectToAction(nameof(ListarUsuarios));
             }
             return View(usuario);
         }
 
         // GET: Usuario/Delete/5
-        public IActionResult DeleteAccount(int? id)
+        public IActionResult Remover(int? id)
         {
             if (id.HasValue)
             {
-                Usuario u = gu.ObterById(id);
+                Usuario u = gu.ObterPorId(id);
                 if (u != null)
                     return View(u);
             }
-            return RedirectToAction("ListarUsuarios", "Usuario");
+            return RedirectToAction(nameof(ListarUsuarios), nameof(Usuario));
         }
 
         // POST: Usuario/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult DeleteAccount(int id)
+        public IActionResult Remover(int id)
         {
             if (ModelState.IsValid)
             {
                 gu.Remover(id);
             }
-            return RedirectToAction("ListarUsuarios", "Usuario");
+            return RedirectToAction(nameof(ListarUsuarios), nameof(Usuario));
         }
 
 
         //[HttpPost]
         [ValidateAntiForgeryToken]
-        //[HttpPost,Route("Usuario/PesquisarProfissao/{profissao}")]
         [HttpPost]
         public IActionResult PesquisarProfissao(FormPesquisar profissao)
         {
             
-            List<Usuario> model = gu.ObterTodosByEmprego(profissao.CampoPesquisar);
+            List<Usuario> model = gu.ObterTodosPorProfissao(profissao.CampoPesquisar);
             if (model.Count == 0)
                 model = null;
             return View(model);
-        }        
+        }
+
     }
 }

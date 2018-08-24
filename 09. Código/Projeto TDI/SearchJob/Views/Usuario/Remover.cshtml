@@ -1,11 +1,12 @@
 ﻿@model Model.Models.Usuario
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Remover";
 }
 
-<h2>Details</h2>
+<h2>Deletar Conta</h2>
 
+<h3>Você está certo que deseja deletar sua conta?</h3>
 <div>
     <h4>Usuario</h4>
     <hr />
@@ -23,10 +24,22 @@
             @Html.DisplayFor(model => model.isAdmin)
         </dd>
         <dt>
+            @Html.DisplayNameFor(model => model.isDisponibilidade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.isDisponibilidade)
+        </dd>
+        <dt>
             @Html.DisplayNameFor(model => model.Nome)
         </dt>
         <dd>
             @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeUsuario)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NomeUsuario)
         </dd>
         <dt>
             @Html.DisplayNameFor(model => model.NomeProfissao)
@@ -39,6 +52,18 @@
         </dt>
         <dd>
             @Html.DisplayFor(model => model.DescricaoProfissao)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Cidade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Cidade)
         </dd>
         <dt>
             @Html.DisplayNameFor(model => model.Email)
@@ -59,8 +84,9 @@
             @Html.DisplayFor(model => model.ConfirmarSenha)
         </dd>
     </dl>
-</div>
-<div>
-    @Html.ActionLink("Edit", "Edit", new {  id = Model.Id }) |
-    <a asp-action="Index">Back to List</a>
+    
+    <form asp-action="Remover">
+        <input type="submit" value="Deletar" class="btn btn-default" /> |
+        <a asp-action="ListarUsuarios">Voltar à Lista</a>
+    </form>
 </div>

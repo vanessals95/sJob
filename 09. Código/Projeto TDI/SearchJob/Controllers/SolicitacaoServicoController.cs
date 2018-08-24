@@ -16,13 +16,13 @@ namespace SearchJobWeb.Controllers
         }
 
         // GET: SolicitacaoServico/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Detalhes(int id)
         {
             return View();
         }
 
         // GET: SolicitacaoServico/Create
-        public ActionResult Create()
+        public ActionResult Cadastrar()
         {
             return View();
         }
@@ -30,7 +30,7 @@ namespace SearchJobWeb.Controllers
         // POST: SolicitacaoServico/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Cadastrar(IFormCollection collection)
         {
             try
             {
@@ -45,7 +45,7 @@ namespace SearchJobWeb.Controllers
         }
 
         // GET: SolicitacaoServico/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult Editar(int id)
         {
             return View();
         }
@@ -53,7 +53,7 @@ namespace SearchJobWeb.Controllers
         // POST: SolicitacaoServico/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Editar(int id, IFormCollection collection)
         {
             try
             {
@@ -68,7 +68,7 @@ namespace SearchJobWeb.Controllers
         }
 
         // GET: SolicitacaoServico/Delete/5
-        public ActionResult Delete(int id)
+        public ActionResult Remover(int id)
         {
             return View();
         }
@@ -76,7 +76,7 @@ namespace SearchJobWeb.Controllers
         // POST: SolicitacaoServico/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult Remover(int id, IFormCollection collection)
         {
             try
             {
